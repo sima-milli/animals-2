@@ -1,0 +1,7 @@
+Lion
+Tiger
+Cat
+Dog
+Bird
+Parrot
+Bear
