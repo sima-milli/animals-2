@@ -1,0 +1,5 @@
+lion
+tiger
+seal
+elephant
+abe
